@@ -2,7 +2,6 @@
  * Demonstrate the use of a few of the Metaplex Read API methods,
  * (needed to fetch compressed NFTs)
  */
-
 // local import of the connection wrapper, to help with using the ReadApi
 import { WrapperConnection } from "@/ReadApi/WrapperConnection";
 
